@@ -53,7 +53,7 @@ export default function GalleryAlbum() {
           </div>
         </div>
       </div>
-      {console.log(galleryAlbum)}
+     
       <div className={style.albumWrapper}>
         {galleryAlbumImages.map((image) => (
           <div key={image.id}>
