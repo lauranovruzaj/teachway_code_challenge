@@ -1,0 +1,18 @@
+header a {
+    color: #fff;
+}
+
+header svg path {
+    fill: #fff;
+}
+label {
+    color: #fff !important;
+}
+
+.formSelect:before {
+    border-color: #fff !important;
+}
+
+.formSelect:after {
+    border: 0 !important;
+}

@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 80%;
+  margin: auto;
+}
+
+.votes {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.votes > div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.albumWrapper {
+  max-width: 80%;
+  margin: auto;
+}
+
+.albumWrapper > div {
+  margin-bottom: 50px;
+}
+
+.albumMedia img,
+.albumMedia video {
+  width: 100%;
+}
+
+.albumWrapper .content {
+}

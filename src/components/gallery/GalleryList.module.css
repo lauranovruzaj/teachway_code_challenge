@@ -1,0 +1,15 @@
+.galleryList {
+    padding: 0 24px;
+}
+.galleryList li{
+    overflow: hidden;
+}
+
+.galleryList li .mainImage {
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.galleryList li:hover .mainImage {
+    scale: 1.1;
+}
