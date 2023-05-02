@@ -1,3 +1,4 @@
+import React from "react";
 import { Suspense, useState, useEffect} from 'react';
 import { json, Await } from 'react-router-dom';
 import GalleryList from '../components/gallery/GalleryList';
