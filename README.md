@@ -1,6 +1,15 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project local setup instructions.
+
+- Clone the newly created repo to your local environment to start working on it.
+    git clone git@github.com:lauranovruzaj/teachway_code_challenge.git
+
+- Install node modules by running `npm install`
+
+- Start the project run `npm start`
+
+- Open [http://localhost:3000](http://0.0.0.0:3000) to view it in your browser.
+
 
 ## Available Scripts
 
